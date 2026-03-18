@@ -1,0 +1,11 @@
+title: Xudong
+url: "https://xudong963.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: /:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
