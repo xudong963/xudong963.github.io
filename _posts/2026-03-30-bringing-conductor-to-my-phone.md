@@ -4,7 +4,7 @@ title: "Bringing Conductor to My Phone"
 date: 2026-03-30
 ---
 
-Conductor is not one of those tools that look impressive in a demo but never make it into your actual workflow. Conductor is something I genuinely use every day: spinning up branches, switching context between tasks, running multiple agents in parallel across different workspaces, or picking up where I left off in an existing session. It's become the interface I reach for first and rely on most.
+[Conductor](https://docs.conductor.build/) is not one of those tools that looks impressive in a demo but never makes it into your actual workflow. It's something I genuinely use every day: spinning up branches, switching context between tasks, running multiple agents in parallel across different workspaces, or picking up where I left off in an existing session. It's become the interface I reach for first and rely on most.
 
 A lot of the time, I'm not even thinking of it as "using an AI tool." It's more like a different way of working: break the task apart, pin each piece of context to its own workspace, let different sessions make progress independently, then come back and pull the results together. Or just let it run multiple my todo list at the same time. Conductor makes that flow smooth enough that it just became my default.
 
