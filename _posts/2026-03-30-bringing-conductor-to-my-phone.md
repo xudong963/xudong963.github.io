@@ -14,6 +14,8 @@ That's not a flaw in Conductor. It might be by design. It's a local workbench, t
 
 So I built this: a Telegram bridge for Conductor that runs on the same Mac. It's not "Conductor in the cloud," and it's not a separate remote agent system. It's just a mobile entry point into the same local Conductor instance, letting me keep working from Telegram on my phone.
 
+The project is here: [conductor_mobile](https://github.com/xudong963/conductor_mobile).
+
 ## What it supports today
 
 - Browse repos and switch between them
