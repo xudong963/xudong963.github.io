@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bringing Conductor to My Phone: Building a Telegram Bridge"
+title: "Bringing Conductor to My Phone"
 date: 2026-03-30
 ---
 
