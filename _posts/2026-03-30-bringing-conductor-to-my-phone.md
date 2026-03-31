@@ -42,9 +42,9 @@ First, the bridge has to run on the same Mac where Conductor is installed and in
 
 Second, if I want it to stay available while I'm away from my desk, I need to register the process as a `LaunchAgent` via `launchd`. That way, even when I lock the screen or let the display turn off, the process stays alive and Telegram keeps receiving messages.
 
-But there's one hard constraint: **the laptop lid has to stay open.**
+But there's one hard constraint: ~~**the laptop lid has to stay open.**~~
 
-The reason is straightforward. `launchd` handles keeping the process running after login, but it can't prevent the machine from sleeping when you close the lid. Once the Mac actually sleeps, everything stops: the bridge, Conductor, and the local environment it depends on. So the practical setup is to keep the Mac plugged in and logged in. Screen off is fine, but the lid stays open.
+The reason is straightforward. `launchd` handles keeping the process running after login, but it can't prevent the machine from sleeping when you close the lid. Once the Mac actually sleeps, everything stops: the bridge, Conductor, and the local environment it depends on. So the practical setup is still to keep the Mac plugged in and logged in. Screen off is fine, and if I want to close the lid without taking the whole setup offline, Amphetamine can help keep the Mac awake.
 
 In other words, this is more of an away-from-desk extension panel than a fully cloud-independent service.
 
